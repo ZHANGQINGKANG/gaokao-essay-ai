@@ -1,0 +1,18 @@
+# 环境变量文件（含 API Key，严禁提交到仓库）
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+venv/
+.venv/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 临时语料文件
+_corpus_extracted.txt
